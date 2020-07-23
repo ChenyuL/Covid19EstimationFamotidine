@@ -10,7 +10,7 @@ Comparative Cohort Study of Famotidine in Hospitalized COVID-19 Patients
 - Study lead forums tag: **[azza_shoaibi](https://forums.ohdsi.org/u/azza_shoaibi/)**
 - Study start date: **June 1, 2020**
 - Study end date: **-**
-- Protocol: **-**
+- Protocol: **PDF available [here](https://github.com/ohdsi-studies/Covid19EstimationFamotidine/tree/master/Protocol)**
 - Publications: **-**
 - Results explorer: **-**
 
