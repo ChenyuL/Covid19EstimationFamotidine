@@ -1,0 +1,22 @@
+"cohortDefinitionId","cohortName","cohortCount","personCount"
+16733,"[Epi 786] T1_Famotidine",1816,1816
+16736,"[Epi 786] C1_ No_Famotidine",26820,26820
+16738,"[Epi 786] C2_ hydroxychloroquine",5950,5950
+16739,"[Epi 786] C3_PPI",2193,2193
+16741,"[COVID ID164 V1] Death",295229,295229
+16743,"[Epi 786] O_hosp requiring intensive services with C19 or died",11371,11371
+16761,"[Epi 786] T2_H1 blockers",440,440
+16762,"[Epi 786] C4_montelukast",773,773
+78524,"Acquired deformity of finger",48851,48851
+79917,"Acquired deformity of toe",69088,69088
+80502,"Osteoporosis",828942,828942
+140673,"Hypothyroidism",2722716,2722716
+432867,"Hyperlipidemia",7878056,7878056
+433736,"Obesity",3469003,3469003
+435243,"Alcohol dependence",400270,400270
+438120,"Opioid dependence",234633,234633
+4080762,"Psychoactive substance dependence",921605,921605
+4166231,"Genetic predisposition",75121,75121
+4209423,"Nicotine dependence",5162909,5162909
+4213540,"Cervical somatic dysfunction",7692,7692
+4295261,"Postmenopausal state",87427,87427

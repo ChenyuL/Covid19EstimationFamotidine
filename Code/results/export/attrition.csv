@@ -1,0 +1,161 @@
+"database_id","exposure_id","target_id","comparator_id","outcome_id","analysis_id","sequence_number","description","subjects"
+"cdm_premier_covid_v1240",16733,16733,16736,16741,1,1,"Original cohorts",1816
+"cdm_premier_covid_v1240",16733,16733,16736,16741,1,2,"First exp. only & removed subs in both cohorts",1772
+"cdm_premier_covid_v1240",16733,16733,16736,16741,1,3,"Have at least 1 days at risk",1623
+"cdm_premier_covid_v1240",16736,16733,16736,16741,1,1,"Original cohorts",26820
+"cdm_premier_covid_v1240",16736,16733,16736,16741,1,2,"First exp. only & removed subs in both cohorts",26776
+"cdm_premier_covid_v1240",16736,16733,16736,16741,1,3,"Have at least 1 days at risk",24404
+"cdm_premier_covid_v1240",16733,16733,16736,16743,1,1,"Original cohorts",1816
+"cdm_premier_covid_v1240",16733,16733,16736,16743,1,2,"First exp. only & removed subs in both cohorts",1772
+"cdm_premier_covid_v1240",16733,16733,16736,16743,1,3,"Have at least 1 days at risk",1623
+"cdm_premier_covid_v1240",16736,16733,16736,16743,1,1,"Original cohorts",26820
+"cdm_premier_covid_v1240",16736,16733,16736,16743,1,2,"First exp. only & removed subs in both cohorts",26776
+"cdm_premier_covid_v1240",16736,16733,16736,16743,1,3,"Have at least 1 days at risk",24404
+"cdm_premier_covid_v1240",16733,16733,16738,16741,1,1,"Original cohorts",1816
+"cdm_premier_covid_v1240",16733,16733,16738,16741,1,2,"First exp. only & removed subs in both cohorts",1299
+"cdm_premier_covid_v1240",16733,16733,16738,16741,1,3,"Have at least 1 days at risk",1186
+"cdm_premier_covid_v1240",16738,16733,16738,16741,1,1,"Original cohorts",5950
+"cdm_premier_covid_v1240",16738,16733,16738,16741,1,2,"First exp. only & removed subs in both cohorts",5433
+"cdm_premier_covid_v1240",16738,16733,16738,16741,1,3,"Have at least 1 days at risk",5047
+"cdm_premier_covid_v1240",16733,16733,16738,16743,1,1,"Original cohorts",1816
+"cdm_premier_covid_v1240",16733,16733,16738,16743,1,2,"First exp. only & removed subs in both cohorts",1299
+"cdm_premier_covid_v1240",16733,16733,16738,16743,1,3,"Have at least 1 days at risk",1186
+"cdm_premier_covid_v1240",16738,16733,16738,16743,1,1,"Original cohorts",5950
+"cdm_premier_covid_v1240",16738,16733,16738,16743,1,2,"First exp. only & removed subs in both cohorts",5433
+"cdm_premier_covid_v1240",16738,16733,16738,16743,1,3,"Have at least 1 days at risk",5047
+"cdm_premier_covid_v1240",16733,16733,16739,16741,1,1,"Original cohorts",1816
+"cdm_premier_covid_v1240",16733,16733,16739,16741,1,2,"First exp. only & removed subs in both cohorts",1667
+"cdm_premier_covid_v1240",16733,16733,16739,16741,1,3,"Have at least 1 days at risk",1527
+"cdm_premier_covid_v1240",16739,16733,16739,16741,1,1,"Original cohorts",2193
+"cdm_premier_covid_v1240",16739,16733,16739,16741,1,2,"First exp. only & removed subs in both cohorts",2044
+"cdm_premier_covid_v1240",16739,16733,16739,16741,1,3,"Have at least 1 days at risk",1855
+"cdm_premier_covid_v1240",16733,16733,16739,16743,1,1,"Original cohorts",1816
+"cdm_premier_covid_v1240",16733,16733,16739,16743,1,2,"First exp. only & removed subs in both cohorts",1667
+"cdm_premier_covid_v1240",16733,16733,16739,16743,1,3,"Have at least 1 days at risk",1527
+"cdm_premier_covid_v1240",16739,16733,16739,16743,1,1,"Original cohorts",2193
+"cdm_premier_covid_v1240",16739,16733,16739,16743,1,2,"First exp. only & removed subs in both cohorts",2044
+"cdm_premier_covid_v1240",16739,16733,16739,16743,1,3,"Have at least 1 days at risk",1855
+"cdm_premier_covid_v1240",16761,16761,16762,16741,1,1,"Original cohorts",440
+"cdm_premier_covid_v1240",16761,16761,16762,16741,1,2,"First exp. only & removed subs in both cohorts",350
+"cdm_premier_covid_v1240",16761,16761,16762,16741,1,3,"Have at least 1 days at risk",316
+"cdm_premier_covid_v1240",16762,16761,16762,16741,1,1,"Original cohorts",773
+"cdm_premier_covid_v1240",16762,16761,16762,16741,1,2,"First exp. only & removed subs in both cohorts",683
+"cdm_premier_covid_v1240",16762,16761,16762,16741,1,3,"Have at least 1 days at risk",639
+"cdm_premier_covid_v1240",16761,16761,16762,16743,1,1,"Original cohorts",440
+"cdm_premier_covid_v1240",16761,16761,16762,16743,1,2,"First exp. only & removed subs in both cohorts",350
+"cdm_premier_covid_v1240",16761,16761,16762,16743,1,3,"Have at least 1 days at risk",316
+"cdm_premier_covid_v1240",16762,16761,16762,16743,1,1,"Original cohorts",773
+"cdm_premier_covid_v1240",16762,16761,16762,16743,1,2,"First exp. only & removed subs in both cohorts",683
+"cdm_premier_covid_v1240",16762,16761,16762,16743,1,3,"Have at least 1 days at risk",639
+"cdm_premier_covid_v1240",16733,16733,16736,16741,2,1,"Original cohorts",1816
+"cdm_premier_covid_v1240",16733,16733,16736,16741,2,2,"First exp. only & removed subs in both cohorts",1772
+"cdm_premier_covid_v1240",16733,16733,16736,16741,2,3,"Have at least 1 days at risk",1623
+"cdm_premier_covid_v1240",16733,16733,16736,16741,2,4,"Matched on propensity score",1619
+"cdm_premier_covid_v1240",16736,16733,16736,16741,2,1,"Original cohorts",26820
+"cdm_premier_covid_v1240",16736,16733,16736,16741,2,2,"First exp. only & removed subs in both cohorts",26776
+"cdm_premier_covid_v1240",16736,16733,16736,16741,2,3,"Have at least 1 days at risk",24404
+"cdm_premier_covid_v1240",16736,16733,16736,16741,2,4,"Matched on propensity score",1619
+"cdm_premier_covid_v1240",16733,16733,16736,16743,2,1,"Original cohorts",1816
+"cdm_premier_covid_v1240",16733,16733,16736,16743,2,2,"First exp. only & removed subs in both cohorts",1772
+"cdm_premier_covid_v1240",16733,16733,16736,16743,2,3,"Have at least 1 days at risk",1623
+"cdm_premier_covid_v1240",16733,16733,16736,16743,2,4,"Matched on propensity score",1619
+"cdm_premier_covid_v1240",16736,16733,16736,16743,2,1,"Original cohorts",26820
+"cdm_premier_covid_v1240",16736,16733,16736,16743,2,2,"First exp. only & removed subs in both cohorts",26776
+"cdm_premier_covid_v1240",16736,16733,16736,16743,2,3,"Have at least 1 days at risk",24404
+"cdm_premier_covid_v1240",16736,16733,16736,16743,2,4,"Matched on propensity score",1619
+"cdm_premier_covid_v1240",16733,16733,16738,16741,2,1,"Original cohorts",1816
+"cdm_premier_covid_v1240",16733,16733,16738,16741,2,2,"First exp. only & removed subs in both cohorts",1299
+"cdm_premier_covid_v1240",16733,16733,16738,16741,2,3,"Have at least 1 days at risk",1186
+"cdm_premier_covid_v1240",16733,16733,16738,16741,2,4,"Matched on propensity score",992
+"cdm_premier_covid_v1240",16738,16733,16738,16741,2,1,"Original cohorts",5950
+"cdm_premier_covid_v1240",16738,16733,16738,16741,2,2,"First exp. only & removed subs in both cohorts",5433
+"cdm_premier_covid_v1240",16738,16733,16738,16741,2,3,"Have at least 1 days at risk",5047
+"cdm_premier_covid_v1240",16738,16733,16738,16741,2,4,"Matched on propensity score",992
+"cdm_premier_covid_v1240",16733,16733,16738,16743,2,1,"Original cohorts",1816
+"cdm_premier_covid_v1240",16733,16733,16738,16743,2,2,"First exp. only & removed subs in both cohorts",1299
+"cdm_premier_covid_v1240",16733,16733,16738,16743,2,3,"Have at least 1 days at risk",1186
+"cdm_premier_covid_v1240",16733,16733,16738,16743,2,4,"Matched on propensity score",992
+"cdm_premier_covid_v1240",16738,16733,16738,16743,2,1,"Original cohorts",5950
+"cdm_premier_covid_v1240",16738,16733,16738,16743,2,2,"First exp. only & removed subs in both cohorts",5433
+"cdm_premier_covid_v1240",16738,16733,16738,16743,2,3,"Have at least 1 days at risk",5047
+"cdm_premier_covid_v1240",16738,16733,16738,16743,2,4,"Matched on propensity score",992
+"cdm_premier_covid_v1240",16733,16733,16739,16741,2,1,"Original cohorts",1816
+"cdm_premier_covid_v1240",16733,16733,16739,16741,2,2,"First exp. only & removed subs in both cohorts",1667
+"cdm_premier_covid_v1240",16733,16733,16739,16741,2,3,"Have at least 1 days at risk",1527
+"cdm_premier_covid_v1240",16733,16733,16739,16741,2,4,"Matched on propensity score",1127
+"cdm_premier_covid_v1240",16739,16733,16739,16741,2,1,"Original cohorts",2193
+"cdm_premier_covid_v1240",16739,16733,16739,16741,2,2,"First exp. only & removed subs in both cohorts",2044
+"cdm_premier_covid_v1240",16739,16733,16739,16741,2,3,"Have at least 1 days at risk",1855
+"cdm_premier_covid_v1240",16739,16733,16739,16741,2,4,"Matched on propensity score",1127
+"cdm_premier_covid_v1240",16733,16733,16739,16743,2,1,"Original cohorts",1816
+"cdm_premier_covid_v1240",16733,16733,16739,16743,2,2,"First exp. only & removed subs in both cohorts",1667
+"cdm_premier_covid_v1240",16733,16733,16739,16743,2,3,"Have at least 1 days at risk",1527
+"cdm_premier_covid_v1240",16733,16733,16739,16743,2,4,"Matched on propensity score",1127
+"cdm_premier_covid_v1240",16739,16733,16739,16743,2,1,"Original cohorts",2193
+"cdm_premier_covid_v1240",16739,16733,16739,16743,2,2,"First exp. only & removed subs in both cohorts",2044
+"cdm_premier_covid_v1240",16739,16733,16739,16743,2,3,"Have at least 1 days at risk",1855
+"cdm_premier_covid_v1240",16739,16733,16739,16743,2,4,"Matched on propensity score",1127
+"cdm_premier_covid_v1240",16761,16761,16762,16741,2,1,"Original cohorts",440
+"cdm_premier_covid_v1240",16761,16761,16762,16741,2,2,"First exp. only & removed subs in both cohorts",350
+"cdm_premier_covid_v1240",16761,16761,16762,16741,2,3,"Have at least 1 days at risk",316
+"cdm_premier_covid_v1240",16761,16761,16762,16741,2,4,"Matched on propensity score",273
+"cdm_premier_covid_v1240",16762,16761,16762,16741,2,1,"Original cohorts",773
+"cdm_premier_covid_v1240",16762,16761,16762,16741,2,2,"First exp. only & removed subs in both cohorts",683
+"cdm_premier_covid_v1240",16762,16761,16762,16741,2,3,"Have at least 1 days at risk",639
+"cdm_premier_covid_v1240",16762,16761,16762,16741,2,4,"Matched on propensity score",273
+"cdm_premier_covid_v1240",16761,16761,16762,16743,2,1,"Original cohorts",440
+"cdm_premier_covid_v1240",16761,16761,16762,16743,2,2,"First exp. only & removed subs in both cohorts",350
+"cdm_premier_covid_v1240",16761,16761,16762,16743,2,3,"Have at least 1 days at risk",316
+"cdm_premier_covid_v1240",16761,16761,16762,16743,2,4,"Matched on propensity score",273
+"cdm_premier_covid_v1240",16762,16761,16762,16743,2,1,"Original cohorts",773
+"cdm_premier_covid_v1240",16762,16761,16762,16743,2,2,"First exp. only & removed subs in both cohorts",683
+"cdm_premier_covid_v1240",16762,16761,16762,16743,2,3,"Have at least 1 days at risk",639
+"cdm_premier_covid_v1240",16762,16761,16762,16743,2,4,"Matched on propensity score",273
+"cdm_premier_covid_v1240",16733,16733,16736,16741,3,1,"Original cohorts",1816
+"cdm_premier_covid_v1240",16733,16733,16736,16741,3,2,"Removed subs in both cohorts",1772
+"cdm_premier_covid_v1240",16733,16733,16736,16741,3,3,"Have at least 1 days at risk",1623
+"cdm_premier_covid_v1240",16736,16733,16736,16741,3,1,"Original cohorts",26820
+"cdm_premier_covid_v1240",16736,16733,16736,16741,3,2,"Removed subs in both cohorts",26776
+"cdm_premier_covid_v1240",16736,16733,16736,16741,3,3,"Have at least 1 days at risk",24404
+"cdm_premier_covid_v1240",16733,16733,16736,16743,3,1,"Original cohorts",1816
+"cdm_premier_covid_v1240",16733,16733,16736,16743,3,2,"Removed subs in both cohorts",1772
+"cdm_premier_covid_v1240",16733,16733,16736,16743,3,3,"Have at least 1 days at risk",1623
+"cdm_premier_covid_v1240",16736,16733,16736,16743,3,1,"Original cohorts",26820
+"cdm_premier_covid_v1240",16736,16733,16736,16743,3,2,"Removed subs in both cohorts",26776
+"cdm_premier_covid_v1240",16736,16733,16736,16743,3,3,"Have at least 1 days at risk",24404
+"cdm_premier_covid_v1240",16733,16733,16738,16741,3,1,"Original cohorts",1816
+"cdm_premier_covid_v1240",16733,16733,16738,16741,3,2,"Removed subs in both cohorts",1299
+"cdm_premier_covid_v1240",16733,16733,16738,16741,3,3,"Have at least 1 days at risk",1186
+"cdm_premier_covid_v1240",16738,16733,16738,16741,3,1,"Original cohorts",5950
+"cdm_premier_covid_v1240",16738,16733,16738,16741,3,2,"Removed subs in both cohorts",5433
+"cdm_premier_covid_v1240",16738,16733,16738,16741,3,3,"Have at least 1 days at risk",5047
+"cdm_premier_covid_v1240",16733,16733,16738,16743,3,1,"Original cohorts",1816
+"cdm_premier_covid_v1240",16733,16733,16738,16743,3,2,"Removed subs in both cohorts",1299
+"cdm_premier_covid_v1240",16733,16733,16738,16743,3,3,"Have at least 1 days at risk",1186
+"cdm_premier_covid_v1240",16738,16733,16738,16743,3,1,"Original cohorts",5950
+"cdm_premier_covid_v1240",16738,16733,16738,16743,3,2,"Removed subs in both cohorts",5433
+"cdm_premier_covid_v1240",16738,16733,16738,16743,3,3,"Have at least 1 days at risk",5047
+"cdm_premier_covid_v1240",16733,16733,16739,16741,3,1,"Original cohorts",1816
+"cdm_premier_covid_v1240",16733,16733,16739,16741,3,2,"Removed subs in both cohorts",1667
+"cdm_premier_covid_v1240",16733,16733,16739,16741,3,3,"Have at least 1 days at risk",1527
+"cdm_premier_covid_v1240",16739,16733,16739,16741,3,1,"Original cohorts",2193
+"cdm_premier_covid_v1240",16739,16733,16739,16741,3,2,"Removed subs in both cohorts",2044
+"cdm_premier_covid_v1240",16739,16733,16739,16741,3,3,"Have at least 1 days at risk",1855
+"cdm_premier_covid_v1240",16733,16733,16739,16743,3,1,"Original cohorts",1816
+"cdm_premier_covid_v1240",16733,16733,16739,16743,3,2,"Removed subs in both cohorts",1667
+"cdm_premier_covid_v1240",16733,16733,16739,16743,3,3,"Have at least 1 days at risk",1527
+"cdm_premier_covid_v1240",16739,16733,16739,16743,3,1,"Original cohorts",2193
+"cdm_premier_covid_v1240",16739,16733,16739,16743,3,2,"Removed subs in both cohorts",2044
+"cdm_premier_covid_v1240",16739,16733,16739,16743,3,3,"Have at least 1 days at risk",1855
+"cdm_premier_covid_v1240",16761,16761,16762,16741,3,1,"Original cohorts",440
+"cdm_premier_covid_v1240",16761,16761,16762,16741,3,2,"Removed subs in both cohorts",350
+"cdm_premier_covid_v1240",16761,16761,16762,16741,3,3,"Have at least 1 days at risk",316
+"cdm_premier_covid_v1240",16762,16761,16762,16741,3,1,"Original cohorts",773
+"cdm_premier_covid_v1240",16762,16761,16762,16741,3,2,"Removed subs in both cohorts",683
+"cdm_premier_covid_v1240",16762,16761,16762,16741,3,3,"Have at least 1 days at risk",639
+"cdm_premier_covid_v1240",16761,16761,16762,16743,3,1,"Original cohorts",440
+"cdm_premier_covid_v1240",16761,16761,16762,16743,3,2,"Removed subs in both cohorts",350
+"cdm_premier_covid_v1240",16761,16761,16762,16743,3,3,"Have at least 1 days at risk",316
+"cdm_premier_covid_v1240",16762,16761,16762,16743,3,1,"Original cohorts",773
+"cdm_premier_covid_v1240",16762,16761,16762,16743,3,2,"Removed subs in both cohorts",683
+"cdm_premier_covid_v1240",16762,16761,16762,16743,3,3,"Have at least 1 days at risk",639
