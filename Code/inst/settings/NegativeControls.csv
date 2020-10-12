@@ -1,0 +1,53 @@
+targetId,comparatorId,outcomeId,outcomeName,type
+16733,16736,78524,Acquired deformity of finger,outcome
+16733,16736,79917,Acquired deformity of toe,outcome
+16733,16736,435243,Alcohol dependence,outcome
+16733,16736,4213540,Cervical somatic dysfunction,outcome
+16733,16736,4166231,Genetic predisposition,outcome
+16733,16736,432867,Hyperlipidemia,outcome
+16733,16736,140673,Hypothyroidism,outcome
+16733,16736,4209423,Nicotine dependence,outcome
+16733,16736,433736,Obesity,outcome
+16733,16736,438120,Opioid dependence,outcome
+16733,16736,80502,Osteoporosis,outcome
+16733,16736,4295261,Postmenopausal state,outcome
+16733,16736,4080762,Psychoactive substance dependence,outcome
+16733,16738,78524,Acquired deformity of finger,outcome
+16733,16738,79917,Acquired deformity of toe,outcome
+16733,16738,435243,Alcohol dependence,outcome
+16733,16738,4213540,Cervical somatic dysfunction,outcome
+16733,16738,4166231,Genetic predisposition,outcome
+16733,16738,432867,Hyperlipidemia,outcome
+16733,16738,140673,Hypothyroidism,outcome
+16733,16738,4209423,Nicotine dependence,outcome
+16733,16738,433736,Obesity,outcome
+16733,16738,438120,Opioid dependence,outcome
+16733,16738,80502,Osteoporosis,outcome
+16733,16738,4295261,Postmenopausal state,outcome
+16733,16738,4080762,Psychoactive substance dependence,outcome
+16733,16739,78524,Acquired deformity of finger,outcome
+16733,16739,79917,Acquired deformity of toe,outcome
+16733,16739,435243,Alcohol dependence,outcome
+16733,16739,4213540,Cervical somatic dysfunction,outcome
+16733,16739,4166231,Genetic predisposition,outcome
+16733,16739,432867,Hyperlipidemia,outcome
+16733,16739,140673,Hypothyroidism,outcome
+16733,16739,4209423,Nicotine dependence,outcome
+16733,16739,433736,Obesity,outcome
+16733,16739,438120,Opioid dependence,outcome
+16733,16739,80502,Osteoporosis,outcome
+16733,16739,4295261,Postmenopausal state,outcome
+16733,16739,4080762,Psychoactive substance dependence,outcome
+16761,16762,78524,Acquired deformity of finger,outcome
+16761,16762,79917,Acquired deformity of toe,outcome
+16761,16762,435243,Alcohol dependence,outcome
+16761,16762,4213540,Cervical somatic dysfunction,outcome
+16761,16762,4166231,Genetic predisposition,outcome
+16761,16762,432867,Hyperlipidemia,outcome
+16761,16762,140673,Hypothyroidism,outcome
+16761,16762,4209423,Nicotine dependence,outcome
+16761,16762,433736,Obesity,outcome
+16761,16762,438120,Opioid dependence,outcome
+16761,16762,80502,Osteoporosis,outcome
+16761,16762,4295261,Postmenopausal state,outcome
+16761,16762,4080762,Psychoactive substance dependence,outcome
